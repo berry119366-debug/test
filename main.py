@@ -1,3 +1,5 @@
 x=input("do you have any prior experience with teaching")
-age=input("are you a confident speaker infront of a group of people")
+age=input("are you a confident speaker in front of a group of people")
 w=input("will you show up on time everyday")
+d=input("will you follow the teacher guideline")
+e=input("will you take care of students as its your responsibility")
